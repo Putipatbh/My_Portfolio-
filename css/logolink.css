@@ -1,0 +1,94 @@
+.linken{
+    font-size: 48px;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.linken:hover{
+    font-size: 60px;
+    padding-top: 0px;
+}
+
+.mail{
+    color: #ffffff;
+}
+
+.mail:hover{
+    color: #ffeb3b;
+}
+
+.linkgit{
+    width: 80px;
+    font-size: 48px;
+    text-align: center;
+    padding-top: 10px;
+    margin-left: 26%;
+}
+
+.linkgit:hover{
+    font-size: 60px;
+    padding-top: 0px;
+    background-color: #ffffffe1;
+    border-radius: 10%;
+}
+
+.git{
+    color: #ffffff;
+}
+
+.git:hover{
+    color: #000000;
+}
+
+.linklin{
+    font-size: 48px;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.linklin:hover{
+    font-size: 60px;
+    padding-top: 0px;
+}
+
+.lin{
+    color: #ffffff;
+}
+
+.lin:hover{
+    color: #1189ca;
+}
+
+.picme{
+    width: 120%;
+    height: 120%;
+    background-image: url(../img/Bhamm.jpg);
+    background-size: cover;
+}
+
+.picme:hover{
+    background-image: url(../img/Bhamm3.jpg);
+}
+
+.pro{
+    color: #ffffff;
+    text-align: left;
+    padding-left: 50px;
+    font-size: 13px;
+}
+
+.imagepro{
+    max-width: 100%;
+    display: block;
+    height: 330px;
+    background-size: 100% 100%;
+    border-radius: 10px;
+}
+
+.imim{
+    border-radius: 10px 0px 0px 10px;
+}
+
+.imim2{
+    border-radius: 0px 10px 10px 0px;
+}
